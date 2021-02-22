@@ -8,7 +8,7 @@ from io import BytesIO
 from PIL import Image
 from hoshino import Service, priv
 from . import _dule_data
-from . import char
+from . import chara
 from hoshino.typing import CQEvent
 from hoshino.util import DailyNumberLimiter
 import copy
